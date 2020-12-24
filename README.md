@@ -1,15 +1,14 @@
 # DataScience portfolio
 
-<b>[Project 1 - Linear-Regression-Model](https://github.com/fahidavp/LinearRegressionModel)</b><br>
+<b>[Project 1 - Regression-Model](https://github.com/fahidavp/LinearRegressionModel)</b><br>
 A linear Regression Model is created explicitly without using sklearn library as well as implicitly using sklearn.
 
 The Model is trained with entire dataset and tested with same entire dataset. Also did split the dataset into train and test sets. Then trained the model with train dataset and tested it with test dataset and difference is analysed.
 
-<b>[Project 2 - Logistic-Regression-Model](https://github.com/fahidavp/LogisticRrgression-TitanicData)</b><br>
+<b>[Project 2 - Classification-Model](https://github.com/fahidavp/LogisticRrgression-TitanicData)</b><br>
 Logistic Regression model is created on Titanic dataset.
 
-<b>[Project 3 - Linear-Regression-Model](https://github.com/fahidavp/LogisticRegression-SUVdata)</b><br>
-Logistic Regression model is created on SUV dataset.
+<b>[Project 3 - Battle of Neighbourhoods in Toronto](https://github.com/fahidavp/CapstoneProject_TorontoNeighbourhoods)</b><br>
 
 <b>[Project 4 - Credit Card Fraud Detection](https://github.com/fahidavp/CreditCardFraudDetection)</b><br>
 I have implemented following classification algorithms to detect credit card fraud.
